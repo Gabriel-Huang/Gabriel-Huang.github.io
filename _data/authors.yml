@@ -1,0 +1,61 @@
+gabriel:
+  first_name: Jiahui
+  last_name: Huang
+  website: https://gabrie
+  is_me: true
+  
+yuhe:
+  first_name: Yuhe
+  last_name: Jin
+  website: https://scholar.google.ca/citations?user=oAYi1YQAAAAJ&hl=en
+
+leon:
+  first_name: Leonid  
+  last_name: Sigal
+  website: https://www.cs.ubc.ca/~lsigal/
+
+kwang:
+  first_name: Kwang Moo
+  last_name: Yi
+  website: https://www.cs.ubc.ca/~kmyi/
+
+gemma:
+  first_name: Gemma
+  last_name: Roig
+  website: http://www.cvai.cs.uni-frankfurt.de/team.html
+
+kshitij:
+  first_name: Kshitij
+  last_name: Dwivedi
+  website: https://kshitijd20.github.io/
+
+yew:
+  first_name: Yew Ken
+  last_name: Chia
+  website: https://chiayewken.com/
+
+samson:
+  first_name: Samson
+  last_name: Yu
+  website: https://samsonyubaijian.github.io/
+
+kevin:
+  first_name: Kevin 
+  last_name: Yee
+  website: https://github.com/yee-kevin
+
+dennis:
+  first_name: Dennis
+  last_name: Küster
+  website: https://www.uni-bremen.de/csl/institut/team/mitarbeiter/dr-dennis-kuester
+
+eva:
+  first_name: Eva
+  middle_name: G
+  last_name: Krumhuber
+  website: https://www.ucl.ac.uk/pals/research/experimental-psychology/person/eva-krumhuber/
+
+dorien:
+  first_name: Dorien
+  last_name: Herremans
+  website: https://dorienherremans.com/

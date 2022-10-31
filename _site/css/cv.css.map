@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "cv.css",
+	"sources": [
+		"cv.scss",
+		"_sass/_base.scss"
+	],
+	"sourcesContent": [
+		"@import \"base\";\n\nbody {\n  margin-top: 1em;\n  font-family: \"Noto Sans\", sans-serif;\n}\n\n.portrait-column {\n    padding: 0;\n}\n\n.portrait-image {\n    border-radius: 50%;\n    max-width: 7em;\n}\n\n.author-me {\n    font-weight: 600;\n}\n\nh2 {\n    margin-top: 0.5em !important;\n    margin-bottom: 0.3em !important;\n}\n\n.columns {\n    margin-bottom: 0 !important;\n}\n\n@media print {\n    html, body {\n        height: auto;\n        font-size: 9pt; /* changing to 10pt has no impact */\n    }\n}",
+		"\nbody {\n  font-family: \"Noto Sans\", sans-serif;\n}\n"
+	],
+	"names": [],
+	"mappings": "ACCA,AAAA,IAAI,CAAC,EACH,WAAW,EAAE,uBAAuB,GACrC;;ADDD,AAAA,IAAI,CAAC,EACH,UAAU,EAAE,GAAG,EACf,WAAW,EAAE,uBAAuB,GACrC;;AAED,AAAA,gBAAgB,CAAC,EACb,OAAO,EAAE,CAAC,GACb;;AAED,AAAA,eAAe,CAAC,EACZ,aAAa,EAAE,GAAG,EAClB,SAAS,EAAE,GAAG,GACjB;;AAED,AAAA,UAAU,CAAC,EACP,WAAW,EAAE,GAAG,GACnB;;AAED,AAAA,EAAE,CAAC,EACC,UAAU,EAAE,gBAAgB,EAC5B,aAAa,EAAE,gBAAgB,GAClC;;AAED,AAAA,QAAQ,CAAC,EACL,aAAa,EAAE,YAAY,GAC9B;;AAED,MAAM,MACF,GAAA,AAAA,IAAI,EAAE,IAAI,CAAC,EACP,MAAM,EAAE,IAAI,EACZ,SAAS,EAAE,GAAG,EAAE,oCAAoC,EACvD,EAAA"
+}

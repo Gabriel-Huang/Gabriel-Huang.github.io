@@ -1,0 +1,60 @@
+- id: controllable
+  title: "Layered Controllable Video Generation"
+  venue: ECCV, 2022
+  description: "Using masks to control the generation of videos."
+  project_page: "https://gabriel-huang.github.io/layered_controllable_video_generation/"
+  github: Gabriel-Huang/Layered-Controllable-Video-Generation
+  paper: https://arxiv.org/abs/2111.12747
+  image: controllable_before.jpg
+  image_mouseover: controllable_after.mp4
+  authors:
+    - gabriel
+    - yuhe
+    - kwang
+    - leon
+  awards:
+    - "Oral Presentation"
+
+- id: smilegan
+  title: "Single Image Video Prediction with Auto-Regressive GANs"
+  venue: Sensors, Volume 22
+  description: "Animating facial expressions using GANs in an auto-regressive fashion."
+  github: Gabriel-Huang/SmileGAN
+  paper: https://www.mdpi.com/1424-8220/22/9/3533
+  image: smile_before.jpg
+  image_mouseover: smile_after.mp4
+  authors:
+    - gabriel
+    - yew
+    - samson
+    - kevin
+    - dennis
+    - eva
+    - dorien
+    - gemma
+
+- id: smilegan
+  title: "Duality diagram similarity: a generic framework for initialization selection in task transfer learning"
+  venue: ECCV, 2020
+  description: "A metric that measures the similarity between neural networks."
+  github: https://github.com/cvai-repo/duality-diagram-similarity
+  paper: https://arxiv.org/pdf/2008.02107
+  image: DDS.png
+  authors:
+    - kshitij
+    - gabriel
+    - gemma
+
+- id: dacnn
+  title: "Deep Anchored Convolutional Neural Networks"
+  venue: CVPR Workshops, 2019
+  description: "A highly efficitn neural network architecture that reuses weights from different layres."
+  github: https://github.com/cvai-repo/duality-diagram-similarity
+  paper: https://openaccess.thecvf.com/content_CVPRW_2019/papers/CEFRL/Huang_Deep_Anchored_Convolutional_Neural_Networks_CVPRW_2019_paper.pdf
+  image: DCNN.png
+  authors:
+    - gabriel
+    - kshitij
+    - gemma
+  awards:
+    - "Oral Presentation"
