@@ -1,3 +1,18 @@
+- id: inve
+  title: "INVE: Interactive Neural Video Editing"
+  venue: CGI, 2023
+  description: "A real-time video editing pipeline via edits propagation."
+  project_page: "https://gabriel-huang.github.io/inve/"
+  image: controllable_before.jpg
+  image_mouseover: controllable_after.mp4
+  authors:
+    - gabriel
+    - leon
+    - kwang
+    - oliver
+    - joonyoung
+
+
 - id: controllable
   title: "Layered Controllable Video Generation"
   venue: ECCV, 2022
