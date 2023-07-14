@@ -3,8 +3,8 @@
   venue: CGI, 2023
   description: "A real-time video editing pipeline via edits propagation."
   project_page: "https://gabriel-huang.github.io/inve/"
-  image: controllable_before.jpg
-  image_mouseover: controllable_after.mp4
+  image: lucia_before.jpg
+  image_mouseover: lucia_after.mp4
   authors:
     - gabriel
     - leon
