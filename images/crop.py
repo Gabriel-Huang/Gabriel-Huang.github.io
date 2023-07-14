@@ -27,12 +27,11 @@ while True:
     frames.append(frame)
 
 # Crop the image to 1:1
-print(img_crop, img_crop + img_size)
 img = img[:, img_crop:img_crop + img_size, :]
 # Save the image
 cv2.imwrite(name + '_before.jpg', cv2.resize(img, video_resize))
 # Save the video
-fourcc = cv2.VideoWriter_fourcc(*'mp4v')
+fourcc = cv2.VideoWriter_fourcc(*'H264')
 output_video = cv2.VideoWriter(name + '_after.mp4', fourcc, 30, video_resize)
 for frame in frames:
     output_video.write(frame)
