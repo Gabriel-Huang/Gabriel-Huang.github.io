@@ -10,9 +10,9 @@ joonyoung:
   website: https://joonyoung-cv.github.io/
 
 oliver:
-first_name: Oliver
-last_name: Wang
-website: http://www.oliverwang.info/
+  first_name: Oliver
+  last_name: Wang
+  website: http://www.oliverwang.info/
 
 yuhe:
   first_name: Yuhe
