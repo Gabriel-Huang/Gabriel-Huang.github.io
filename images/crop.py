@@ -1,6 +1,6 @@
 import cv2
 
-name = 'lucia'
+name = 'flowtrack'
 img = cv2.imread(name + '.jpg')
 video = cv2.VideoCapture(name + '.mp4')
 

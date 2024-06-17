@@ -9,10 +9,20 @@ joonyoung:
   last_name: Lee
   website: https://joonyoung-cv.github.io/
 
+seokju:
+  first_name: Seoku
+  last_name: Cho
+  website: https://seokju-cho.github.io/
+
 oliver:
   first_name: Oliver
   last_name: Wang
   website: http://www.oliverwang.info/
+
+seungryong:
+  first_name: Seungryong
+  last_name: Kim
+  website: https://cvlab.korea.ac.kr/members
 
 yuhe:
   first_name: Yuhe

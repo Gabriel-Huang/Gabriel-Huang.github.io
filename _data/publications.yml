@@ -1,3 +1,18 @@
+- id: flowtrack
+  title: "FlowTrack: Revisiting Optical Flow for Long-Range Dense Tracking"
+  venue: CVPR, 2024
+  description: "Dense point tracking on long-range videos."
+  # project_page: "https://gabriel-huang.github.io/inve/"
+  paper: https://openaccess.thecvf.com/content/CVPR2024/papers/Cho_FlowTrack_Revisiting_Optical_Flow_for_Long-Range_Dense_Tracking_CVPR_2024_paper.pdf
+  image: flowtrack_before.jpg
+  image_mouseover: flowtrack_after.mp4
+  authors:
+    - seokju
+    - gabriel
+    - seungryong
+    - joonyoung
+
+
 - id: inve
   title: "INVE: Interactive Neural Video Editing"
   venue: CGI, 2023
