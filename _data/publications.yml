@@ -1,8 +1,24 @@
+- id: locotrack
+  title: "Local All-Pair Correspondence for Point Tracking"
+  venue: ECCV, 2024
+  description: "A highly accurate and efficient model for point tracking."
+  project_page: "https://ku-cvlab.github.io/locotrack/"
+  github: https://github.com/KU-CVLAB/LocoTrack
+  paper: https://arxiv.org/abs/2407.15420
+  image: locotrack_before.jpg
+  image_mouseover: locotrack_after.mp4
+  authors:
+    - seokju
+    - gabriel
+    - jisun
+    - honggyu
+    - seungryong
+    - joonyoung
+
 - id: flowtrack
   title: "FlowTrack: Revisiting Optical Flow for Long-Range Dense Tracking"
   venue: CVPR, 2024
   description: "Dense point tracking on long-range videos."
-  # project_page: "https://gabriel-huang.github.io/inve/"
   paper: https://openaccess.thecvf.com/content/CVPR2024/papers/Cho_FlowTrack_Revisiting_Optical_Flow_for_Long-Range_Dense_Tracking_CVPR_2024_paper.pdf
   image: flowtrack_before.jpg
   image_mouseover: flowtrack_after.mp4

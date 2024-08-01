@@ -1,3 +1,7 @@
+- date: Jul 2024
+  description: >-
+    [FlowTrack](https://openaccess.thecvf.com/content/CVPR2024/papers/Cho_FlowTrack_Revisiting_Optical_Flow_for_Long-Range_Dense_Tracking_CVPR_2024_paper.pdf) accepted to **CVPR 2024**, and [LocoTrack](https://ku-cvlab.github.io/locotrack/) accepted to **ECCV 2024**.
+
 - date: Oct 2023
   description: >-
     Project ["Fast Fill"](https://youtu.be/kyYk-u2rxYA?si=ib9uTt-RW6JY_PGd) show-cased at **Adobe Max Sneaks 2023**.
@@ -12,5 +16,5 @@
 
 - date: Jul 2022
   description: >-
-    [_Layered Controllable Video Generation_](https://gabriel-huang.github.io/layered_controllable_video_generation/) 
+    [Layered Controllable Video Generation](https://gabriel-huang.github.io/layered_controllable_video_generation/) 
     has been accepted to ECCV 2022 as an **oral** presentation.
