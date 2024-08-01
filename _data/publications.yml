@@ -3,7 +3,7 @@
   venue: ECCV, 2024
   description: "A highly accurate and efficient model for point tracking."
   project_page: "https://ku-cvlab.github.io/locotrack/"
-  github: https://github.com/KU-CVLAB/LocoTrack
+  github: KU-CVLAB/LocoTrack
   paper: https://arxiv.org/abs/2407.15420
   image: locotrack_before.jpg
   image_mouseover: locotrack_after.mp4
