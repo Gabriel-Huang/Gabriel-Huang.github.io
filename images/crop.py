@@ -1,9 +1,8 @@
 import cv2
 
-name = 'flowtrack'
-img = cv2.imread(name + '.jpg')
+name = 'locotrack'
 video = cv2.VideoCapture(name + '.mp4')
-
+ret, img = video.read()
 
 video_width = int(video.get(cv2.CAP_PROP_FRAME_WIDTH))
 video_height = int(video.get(cv2.CAP_PROP_FRAME_HEIGHT))
@@ -32,7 +31,7 @@ img = img[:, img_crop:img_crop + img_size, :]
 cv2.imwrite(name + '_before.jpg', cv2.resize(img, video_resize))
 # Save the video
 fourcc = cv2.VideoWriter_fourcc(*'H264')
-output_video = cv2.VideoWriter(name + '_after.mp4', fourcc, 30, video_resize)
+output_video = cv2.VideoWriter(name + '_after.mp4', fourcc, 15, video_resize)
 for frame in frames:
     output_video.write(frame)
 output_video.release()
