@@ -1,5 +1,5 @@
 - id: locotrack
-  title: "Local All-Pair Correspondence for Point Tracking"
+  title: "LocoTrack: Local All-Pair Correspondence for Point Tracking"
   venue: ECCV, 2024
   description: "A highly accurate and efficient model for point tracking."
   project_page: "https://ku-cvlab.github.io/locotrack/"
