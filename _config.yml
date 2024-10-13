@@ -23,8 +23,9 @@ name: Jiahui (Gabriel) Huang
 position: Research Engineer
 email: jiahuih@adobe.com
 description: >-
-  I work at [Adobe Research](https://research.adobe.com/) on exciting problems related to video processing and editing. Previously, I received my Master's Degree at the University of British Columnbia [(UBC)](https://www.cs.ubc.ca/) with [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/),
-   and my B.S. at Singapore University of Technology and Design [(SUTD)](https://istd.sutd.edu.sg/) with [Gemma Roig](http://www.cvai.cs.uni-frankfurt.de/team.html).
+  I work at [Adobe Research](https://research.adobe.com/) on topics related to video processing and editing. Previously, I've studied at [(UBC)](https://www.cs.ubc.ca/) with [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/),
+   and [(SUTD)](https://istd.sutd.edu.sg/) with [Gemma Roig](http://www.cvai.cs.uni-frankfurt.de/team.html).
+  If you are interested in doing an internship at Adobe Research for summer 2025, please reach out via email.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gabriel-huang.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: KeunhongP
