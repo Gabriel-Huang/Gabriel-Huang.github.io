@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jiahui (Gabriel) Huang
-name: Jiahui (Gabriel) Huang
+title: Gabriel (Jiahui) Huang
+name: Gabriel (Jiahui) Huang
 position: Research Engineer
 email: jiahuih@adobe.com
 description: >-
