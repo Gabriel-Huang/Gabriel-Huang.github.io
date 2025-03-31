@@ -1,6 +1,6 @@
 import cv2
 
-name = 'locotrack'
+name = 'motion_canvas'
 video = cv2.VideoCapture(name + '.mp4')
 ret, img = video.read()
 
@@ -35,3 +35,9 @@ output_video = cv2.VideoWriter(name + '_after.mp4', fourcc, 15, video_resize)
 for frame in frames:
     output_video.write(frame)
 output_video.release()
+
+# image = cv2.imread('motion_canvas.png')
+# image_crop = int((image.shape[1] - image.shape[0]) / 2)
+# image = image[:, image_crop:image_crop + image.shape[0], :]
+# image = cv2.resize(image, (256, 256))
+# cv2.imwrite('motion_canvas_before.jpg', image)

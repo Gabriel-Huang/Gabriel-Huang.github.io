@@ -1,3 +1,54 @@
+- id: MotionCanvas
+  title: "MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation"
+  venue: SIGGRAPH, 2025
+  description: "A model that integrates user-driven controls into image-to-video (I2V) generation models"
+  project_page: "https://motion-canvas25.github.io/"
+  paper: https://arxiv.org/abs/2502.04299
+  image: motion_canvas_before.jpg
+  image_mouseover: motion_canvas_after.mp4
+  authors:
+    - jinbo
+    - long
+    - cusuh
+    - gabriel
+    - aniruddha
+    - chi-wing
+    - tien-tsing
+    - feng
+
+
+- id: Seuret
+  title: "Seurat: From Moving Points to Depth"
+  venue: CVPR, 2025
+  description: "A feature backbone for point tracking with built-in temporal awareness"
+  # project_page: "https://cvlab-kaist.github.io/Chrono/"
+  # github: https://github.com/cvlab-kaist/Chrono
+  # paper: https://arxiv.org/pdf/2501.12218
+  image: seurat_before.jpg
+  image_mouseover: seurat_after.mp4
+  authors:
+    - seokju
+    - gabriel
+    - seungryong
+    - joonyoung
+
+- id: Chrono
+  title: "Exploring Temporally-Aware Features for Point Tracking"
+  venue: CVPR, 2025
+  description: "A feature backbone for point tracking with built-in temporal awareness"
+  project_page: "https://cvlab-kaist.github.io/Chrono/"
+  github: https://github.com/cvlab-kaist/Chrono
+  paper: https://arxiv.org/pdf/2501.12218
+  image: chrono_before.jpg
+  image_mouseover: chrono_after.mp4
+  authors:
+    - ines
+    - seokju
+    - gabriel
+    - jungyi
+    - joonyoung
+    - seungryong
+
 - id: locotrack
   title: "LocoTrack: Local All-Pair Correspondence for Point Tracking"
   venue: ECCV, 2024
@@ -28,7 +79,6 @@
     - seungryong
     - joonyoung
 
-
 - id: inve
   title: "INVE: Interactive Neural Video Editing"
   venue: CGI, 2023
@@ -43,7 +93,6 @@
     - kwang
     - oliver
     - joonyoung
-
 
 - id: controllable
   title: "Layered Controllable Video Generation"

@@ -3,7 +3,7 @@ gabriel:
   last_name: Huang
   website: https://gabrie
   is_me: true
-  
+
 joonyoung:
   first_name: Joon Young
   last_name: Lee
@@ -14,10 +14,20 @@ seokju:
   last_name: Cho
   website: https://seokju-cho.github.io/
 
+ines:
+  first_name: Inès Hyeonsu
+  last_name: Kim
+  website: https://ines-hyeonsu-kim.github.io/
+
 jisun:
   first_name: Jisu
   last_name: Nam
   website: https://nam-jisu.github.io/
+
+jungyi:
+  first_name: Jung
+  last_name: Yi
+  website: https://github.com/YJ-142150
 
 honggyu:
   first_name: Honggyu
@@ -40,7 +50,7 @@ yuhe:
   website: https://scholar.google.ca/citations?user=oAYi1YQAAAAJ&hl=en
 
 leon:
-  first_name: Leonid  
+  first_name: Leonid
   last_name: Sigal
   website: https://www.cs.ubc.ca/~lsigal/
 
@@ -70,7 +80,7 @@ samson:
   website: https://samsonyubaijian.github.io/
 
 kevin:
-  first_name: Kevin 
+  first_name: Kevin
   last_name: Yee
   website: https://github.com/yee-kevin
 
@@ -89,3 +99,41 @@ dorien:
   first_name: Dorien
   last_name: Herremans
   website: https://dorienherremans.com/
+
+jinbo:
+  first_name: Jinbo
+  last_name: Xing
+  website: https://doubiiu.github.io/
+
+tien-tsing:
+  first_name: Tien-Tsin
+  last_name: Wong
+  website: https://ttwong12.github.io/myself.html
+
+long:
+  first_name: Long
+  last_name: Mai
+  website: https://mai-t-long.com/
+
+feng:
+  first_name: Feng
+  last_name: Liu
+  website: https://scholar.google.com/citations?user=uiqXutMAAAAJ&hl=en
+
+aniruddha:
+  first_name: Aniruddha
+  last_name: Mahapatra
+  website: https://anime26398.github.io/
+
+cusuh:
+  first_name: Cusuh
+  last_name: Ham
+  website: https://cusuh.github.io/
+
+chi-wing:
+  first_name: Chi-Wing
+  last_name: Fu
+  website: https://www.cse.cuhk.edu.hk/~cwfu/
+
+
+
