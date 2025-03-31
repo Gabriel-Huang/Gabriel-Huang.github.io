@@ -19,7 +19,7 @@
 - id: Seuret
   title: "Seurat: From Moving Points to Depth"
   venue: CVPR, 2025
-  description: "A feature backbone for point tracking with built-in temporal awareness"
+  description: "Inferring depth from point trajectories"
   # project_page: "https://cvlab-kaist.github.io/Chrono/"
   # github: https://github.com/cvlab-kaist/Chrono
   # paper: https://arxiv.org/pdf/2501.12218
