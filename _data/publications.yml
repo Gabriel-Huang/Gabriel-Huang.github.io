@@ -116,8 +116,8 @@
   description: "Animating facial expressions using GANs in an auto-regressive fashion."
   github: Gabriel-Huang/SmileGAN
   paper: https://www.mdpi.com/1424-8220/22/9/3533
-  image: smile_before.jpg
-  image_mouseover: smile_after.mp4
+  # image: smile_before.jpg
+  # image_mouseover: smile_after.mp4
   authors:
     - gabriel
     - yew
@@ -134,7 +134,7 @@
   description: "A metric that measures the similarity between neural networks."
   github: https://github.com/cvai-repo/duality-diagram-similarity
   paper: https://arxiv.org/pdf/2008.02107
-  image: DDS.png
+  # image: DDS.png
   authors:
     - kshitij
     - gabriel
@@ -146,7 +146,7 @@
   description: "A highly efficitn neural network architecture that reuses weights from different layres."
   github: https://github.com/cvai-repo/duality-diagram-similarity
   paper: https://openaccess.thecvf.com/content_CVPRW_2019/papers/CEFRL/Huang_Deep_Anchored_Convolutional_Neural_Networks_CVPRW_2019_paper.pdf
-  image: DCNN.png
+  # image: DCNN.png
   authors:
     - gabriel
     - kshitij
