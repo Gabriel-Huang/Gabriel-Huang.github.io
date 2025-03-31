@@ -109,7 +109,7 @@ layout: null
 
       {% for publication in site.data.publications %}
       <div class="publication-block columns">
-
+        {% if publication.image or publication.image_mouseover %}
         <div class="column is-2">
           <div class="publication-image {% if publication.image_mouseover %}publication-mousecell{% endif %}">
             {% if publication.image_mouseover contains "mp4" %}
@@ -121,8 +121,9 @@ layout: null
             <img alt="{{ publication.title }}" src="./images/{{ publication.image }}" />
           </div>
         </div>
+        {% endif %}
 
-        <div class="column">
+        <div class="column {% unless publication.image or publication.image_mouseover %}is-12{% endunless %}">
           <div class="content">
             <h3 class="publication-title"><a href="{{ publication.project_page }}">{{ publication.title }}</a></h3>
             <div class="publication-authors">
