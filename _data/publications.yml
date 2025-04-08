@@ -30,6 +30,8 @@
     - gabriel
     - seungryong
     - joonyoung
+  awards:
+    - "Highlight"
 
 - id: Chrono
   title: "Exploring Temporally-Aware Features for Point Tracking"
