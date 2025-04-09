@@ -20,9 +20,9 @@
   title: "Seurat: From Moving Points to Depth"
   venue: CVPR, 2025
   description: "Inferring depth from point trajectories"
-  # project_page: "https://cvlab-kaist.github.io/Chrono/"
-  # github: https://github.com/cvlab-kaist/Chrono
-  # paper: https://arxiv.org/pdf/2501.12218
+  project_page: "https://seurat-cvpr.github.io/"
+  github: https://github.com/cvlab-kaist/seurat
+  paper: https://seurat-cvpr.github.io/paper.pdf
   image: seurat_before.jpg
   image_mouseover: seurat_after.mp4
   authors:
