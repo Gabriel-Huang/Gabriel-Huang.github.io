@@ -12,7 +12,7 @@ body { font-family: "Noto Sans", sans-serif; }
 
 .publication-block .publication-title a { color: #000; }
 
-.publication-block .publication-venue { color: #555; width: fit-content; margin-top: 0; }
+.publication-block .publication-venue { color: #555; width: fit-content; font-weight: 600; margin-top: 0; }
 
 .publication-block .publication-venue-emph { font-style: normal; font-size: 80%; font-weight: 500; color: firebrick; padding-left: 0.25em; }
 
@@ -37,5 +37,9 @@ body { font-family: "Noto Sans", sans-serif; }
 .publication-block .publication-description { color: #333; margin: 0.5em 0; }
 
 .publication-block .publication-links { margin: 0 !important; margin-top: 0.5em !important; }
+
+.youtube-video { position: relative; padding-bottom: 56.25%; /* 16:9 aspect ratio */ height: 0; overflow: hidden; max-width: 100%; }
+
+.youtube-video iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 
 /*# sourceMappingURL=index.css.map */
