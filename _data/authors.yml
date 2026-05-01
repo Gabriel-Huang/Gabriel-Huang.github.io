@@ -42,7 +42,7 @@ oliver:
 seungryong:
   first_name: Seungryong
   last_name: Kim
-  website: https://cvlab.korea.ac.kr/members
+  website: https://cvlab.kaist.ac.kr/members/faculty
 
 yuhe:
   first_name: Yuhe
@@ -135,5 +135,85 @@ chi-wing:
   last_name: Fu
   website: https://www.cse.cuhk.edu.hk/~cwfu/
 
+tuan:
+  first_name: Tuan
+  middle_name: Duc
+  last_name: Ngo
+  website: https://ngoductuanlhp.github.io/
 
+seoungwug:
+  first_name: Seoung
+  middle_name: Wug
+  last_name: Oh
+  website: https://sites.google.com/view/seoungwugoh
+
+kevinbm:
+  first_name: Kevin
+  last_name: Blackburn-Matzen
+  website: https://kmatzen.com/
+
+evangelos:
+  first_name: Evangelos
+  last_name: Kalogerakis
+  website: https://people.cs.umass.edu/~kalo/
+
+chuang:
+  first_name: Chuang
+  last_name: Gan
+  website: https://people.csail.mit.edu/ganchuang/
+
+yaochih:
+  first_name: Yao-Chih
+  last_name: Lee
+  website: https://yaochih.github.io/
+
+zhoutong:
+  first_name: Zhoutong
+  last_name: Zhang
+  website: https://ztzhang.info/
+
+juihsien:
+  first_name: Jui-Hsien
+  last_name: Wang
+  website: https://juiwang.com/
+
+jiabin:
+  first_name: Jia-Bin
+  last_name: Huang
+  website: https://jbhuang0604.github.io/
+
+eli:
+  first_name: Eli
+  last_name: Shechtman
+  website: https://research.adobe.com/person/eli-shechtman/
+
+zhengqi:
+  first_name: Zhengqi
+  last_name: Li
+  website: https://zhengqili.github.io/
+
+sangbeom:
+  first_name: Sangbeom
+  last_name: Lim
+  website: https://sites.google.com/view/sangbeomlim/home
+
+heeji:
+  first_name: Heeji
+  last_name: Yoon
+  website: https://scholar.google.com/scholar?q=Heeji+Yoon
+
+jahyeok:
+  first_name: Jahyeok
+  last_name: Koo
+  website: https://scholar.google.com/scholar?q=Jahyeok+Koo
+
+junghyun:
+  first_name: Junghyun
+  last_name: Park
+  website: https://scholar.google.com/scholar?q=Junghyun+Park
+
+honglak:
+  first_name: Honglak
+  last_name: Lee
+  website: https://web.eecs.umich.edu/~honglak/
 

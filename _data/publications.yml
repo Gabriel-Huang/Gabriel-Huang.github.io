@@ -1,3 +1,76 @@
+- id: dage
+  title: "DAGE: Dual-Stream Architecture for Efficient and Fine-Grained Geometry Estimation"
+  venue: CVPR, 2026
+  description: "A dual-stream transformer that decouples global view consistency from fine-detail preservation for high-resolution multi-view geometry estimation."
+  project_page: "https://ngoductuanlhp.github.io/dage-site/"
+  github: ngoductuanlhp/DAGE
+  paper: https://arxiv.org/abs/2603.03744
+  image: dage_before.jpg
+  image_mouseover: dage_after.mp4
+  selected: true
+  authors:
+    - tuan
+    - gabriel
+    - seoungwug
+    - kevinbm
+    - evangelos
+    - chuang
+    - joonyoung
+
+- id: editbytrack
+  title: "Generative Video Motion Editing with 3D Point Tracks"
+  venue: CVPR, 2026
+  description: "A framework for precise video motion editing via 3D point tracks, enabling joint control over camera and object motion."
+  project_page: "https://edit-by-track.github.io/"
+  paper: https://arxiv.org/abs/2512.02015
+  image: edit_by_track_before.jpg
+  image_mouseover: edit_by_track_after.mp4
+  authors:
+    - yaochih
+    - zhoutong
+    - gabriel
+    - juihsien
+    - joonyoung
+    - jiabin
+    - eli
+    - zhengqi
+
+- id: videomama
+  title: "VideoMaMa: Mask-Guided Video Matting via Generative Prior"
+  venue: CVPR, 2026
+  description: "Turns coarse segmentation masks into pixel-accurate alpha mattes by leveraging pretrained video diffusion priors, with zero-shot generalization to in-the-wild footage."
+  project_page: "https://cvlab-kaist.github.io/VideoMaMa/"
+  github: cvlab-kaist/VideoMaMa
+  paper: https://arxiv.org/abs/2601.14255
+  image: videomama_before.jpg
+  image_mouseover: videomama_after.mp4
+  authors:
+    - sangbeom
+    - seoungwug
+    - gabriel
+    - heeji
+    - seungryong
+    - joonyoung
+
+- id: anthrotap
+  title: "AnthroTAP: Learning Point Tracking with Real-World Motion"
+  venue: CVPR, 2026
+  description: "Generates pseudo-labeled point-tracking training data by exploiting human-motion complexity captured via the SMPL model."
+  project_page: "https://cvlab-kaist.github.io/AnthroTAP/"
+  github: cvlab-kaist/AnthroTAP
+  paper: https://arxiv.org/abs/2507.06233
+  image: anthrotap_before.jpg
+  image_mouseover: anthrotap_after.mp4
+  authors:
+    - ines
+    - seokju
+    - jahyeok
+    - junghyun
+    - gabriel
+    - honglak
+    - joonyoung
+    - seungryong
+
 - id: Seuret
   title: "Seurat: From Moving Points to Depth"
   venue: CVPR, 2025
@@ -7,6 +80,7 @@
   paper: https://seurat-cvpr.github.io/paper.pdf
   image: seurat_before.jpg
   image_mouseover: seurat_after.mp4
+  selected: true
   authors:
     - seokju
     - gabriel
@@ -59,6 +133,7 @@
   paper: https://arxiv.org/abs/2407.15420
   image: locotrack_before.jpg
   image_mouseover: locotrack_after.mp4
+  selected: true
   authors:
     - seokju
     - gabriel
@@ -104,6 +179,7 @@
   paper: https://arxiv.org/abs/2111.12747
   image: controllable_before.jpg
   image_mouseover: controllable_after.mp4
+  selected: true
   authors:
     - gabriel
     - yuhe

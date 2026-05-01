@@ -21,6 +21,14 @@
 }
 
 .publication-block {
+    border-radius: 8px;
+    transition: background-color 0.2s ease;
+
+    &.is-selected {
+        background: #fff7d1;
+        box-shadow: inset 3px 0 0 #f0b400;
+    }
+
     .publication-title {
         width: fit-content;
         margin: 0 !important;
@@ -103,6 +111,14 @@
         margin: 0 !important;
         margin-top: 0.5em !important;
     }
+}
+
+.news-logo {
+    height: 1.1em;
+    width: auto;
+    vertical-align: -0.2em;
+    margin-right: 0.25em;
+    display: inline-block;
 }
 
 .youtube-video {
