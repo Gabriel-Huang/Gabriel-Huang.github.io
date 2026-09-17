@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bundle --version)",
+      "Bash(curl -sSL -o /Users/gabriel/Documents/Projects/Gabriel-Huang.github.io/images/premiere.svg \"https://cdn.simpleicons.org/adobepremierepro\")",
+      "Bash(curl -sSL -A \"Mozilla/5.0\" -o /Users/gabriel/Documents/Projects/Gabriel-Huang.github.io/images/premiere.svg \"https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobepremierepro.svg\")",
+      "Bash(curl -sSL -A \"Mozilla/5.0\" -o /Users/gabriel/Documents/Projects/Gabriel-Huang.github.io/images/premiere.svg \"https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/adobepremierepro.svg\")",
+      "Bash(curl -sSL -A \"Mozilla/5.0 \\(Macintosh\\)\" -H \"Accept: image/svg+xml,*/*\" \"https://cdn.simpleicons.org/adobepremierepro\" -o /tmp/premiere.svg)",
+      "Read(//tmp/**)",
+      "WebFetch(domain:simpleicons.org)",
+      "Bash(curl -sSL -A \"Mozilla/5.0\" -o /Users/gabriel/Documents/Projects/Gabriel-Huang.github.io/images/premiere.svg \"https://www.adobe.com/cc-shared/assets/img/product-icons/svg/premiere-pro.svg\")",
+      "Bash(curl -sSL -A \"Mozilla/5.0\" \"https://www.adobe.com/cc-shared/assets/img/product-icons/svg/adobe.svg\" -o /tmp/adobe.svg)",
+      "Bash(curl -sSL -A \"Mozilla/5.0\" \"https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Horizontal_Red_HEX.svg\" -o /tmp/adobe2.svg)",
+      "Bash(curl -sSL -A \"Mozilla/5.0\" -o /Users/gabriel/Documents/Projects/Gabriel-Huang.github.io/images/adobe.svg \"https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Horizontal_Red_HEX.svg\")",
+      "Bash(curl -sSL -A \"Mozilla/5.0\" -o /Users/gabriel/Documents/Projects/Gabriel-Huang.github.io/images/adobe-tile.svg \"https://www.adobe.com/cc-shared/assets/img/product-icons/svg/adobe.svg\")",
+      "WebFetch(domain:ngoductuanlhp.github.io)",
+      "WebFetch(domain:edit-by-track.github.io)",
+      "WebFetch(domain:cvlab-kaist.github.io)",
+      "Bash(brew list *)",
+      "Bash(brew install *)",
+      "Bash(convert Ae.svg.png -alpha flatten -threshold 40% -negate tmp_letters.pbm)",
+      "Bash(potrace tmp_letters.pbm -s -o tmp_letters.svg)",
+      "Bash(rm tmp_letters.pbm)",
+      "Bash(magick Ae.svg.png -background white -flatten -threshold 40% -negate tmp_letters.pbm)"
+    ]
+  }
+}
