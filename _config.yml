@@ -23,9 +23,9 @@ name: Gabriel (Jiahui) Huang
 position: Research Scientist/Engineer
 email: superhjh123@gmail.com
 description: >-
-  I'm a Research Scientist at [Adobe Research](https://research.adobe.com/), working on topics related to video processing and editing. 
+  I'm a Research Scientist at <img src="/images/wayve.png" alt="Wayve" class="news-logo" />[Wayve](https://wayve.ai/labs/), working on topics related to 3D perception and world modeling. Previously, I worked at [Adobe Research](https://research.adobe.com/) on topics related to video processing and editing.
    
-  I live in the beautiful city of Vancouver, Canada 🇨🇦, where I previously received my Master's degree from [UBC](https://www.cs.ubc.ca/) under [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/).
+  I live in the beautiful city of Vancouver, Canada 🇨🇦.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gabriel-huang.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
